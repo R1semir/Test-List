@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\test-list\test-list\bin\Debug\test-list.exe.config
+C:\Users\legen\source\repos\test-list\test-list\bin\Debug\test-list.exe
+C:\Users\legen\source\repos\test-list\test-list\bin\Debug\test-list.pdb
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test-list.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test_list.Form1.resources
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test_list.Properties.Resources.resources
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test-list.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test-list.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test-list.exe
+C:\Users\legen\source\repos\test-list\test-list\obj\Debug\test-list.pdb
